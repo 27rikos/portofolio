@@ -1,0 +1,70 @@
+body .me {
+  font-family: "Roboto", sans-serif;
+  background-color: #fefbf6;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #4e4feb !important;
+}
+
+.name {
+  color: #4e4feb !important;
+}
+.header {
+  width: 100%;
+  height: 100vh;
+}
+
+#hero .heading-sm {
+  font: 25px;
+  font-weight: 600;
+  color: #272829;
+}
+#hero .heading-lg {
+  font-size: 84px;
+  font-weight: 800;
+
+  letter-spacing: 1px;
+}
+#hero .heading_md {
+  font-size: 16px;
+  font-weight: 500;
+  color: #272829;
+}
+
+.icon {
+  font-size: 17px;
+  padding: 8px 10px;
+  color: #4e4feb;
+  border: 2px solid #4e4feb;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.2 ease;
+}
+.icon:hover {
+  background-color: #4e4feb;
+  color: white;
+  transition: 0.3s ease-in-out;
+}
+.img-home {
+  width: 400px;
+  height: 400px;
+}
+.btn {
+  background-color: #4e4feb !important;
+  color: white !important;
+}
+.text-about {
+  text-align: justify;
+}
+p {
+  text-align: justify;
+}
